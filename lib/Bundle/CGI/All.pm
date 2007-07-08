@@ -3,7 +3,7 @@ package Bundle::CGI::All;
 use strict;
 use warnings;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 
 
@@ -180,22 +180,6 @@ CGI::Alert
 
 CGI::Session::Auth
 
-CGI::AppBuilder
-
-CGI::AppBuilder::Config
-
-CGI::AppBuilder::Form
-
-CGI::AppBuilder::Frame
-
-CGI::AppBuilder::Header
-
-CGI::AppBuilder::Log
-
-CGI::AppBuilder::Message
-
-CGI::AppBuilder::Table
-
 CGI::Getopt
 
 CGI::AppToolkit
@@ -341,8 +325,6 @@ CGI::EncryptForm
 CGI::FormBuilder::Mail::FormatMultiPart
 
 CGI::FormBuilder::Source::YAML
-
-CGI::Uploader
 
 CGI::Graph
 

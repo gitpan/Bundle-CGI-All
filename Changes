@@ -1,0 +1,6 @@
+Revision history for Perl extension Bundle::CGI::All.
+
+0.01  Fri Jul  6 22:03:44 2007
+	- original version; created by h2xs 1.23 with options
+		-AXcfn Bundle::CGI::All
+

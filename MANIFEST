@@ -1,0 +1,7 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Bundle-CGI-All.t
+lib/Bundle/CGI/All.pm
+META.yml                                 Module meta-data (added by MakeMaker)

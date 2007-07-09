@@ -3,7 +3,7 @@ package Bundle::CGI::All;
 use strict;
 use warnings;
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 
 
@@ -106,7 +106,7 @@ CGI::Untaint::set
 
 CGI::Compress::Gzip
 
-CGI::WikiSimple
+CGI::Wiki::Simple
 
 CGI::JSONRPC
 
@@ -181,8 +181,6 @@ CGI::Alert
 CGI::Session::Auth
 
 CGI::Getopt
-
-CGI::AppToolkit
 
 CGI::Application::Plugin::QueryHash
 
@@ -354,7 +352,7 @@ CGI::Application::Pluggable
 
 CGI::Imagemap
 
-CGI::FormMagic
+CGI::FormMagick
 
 CGI::Untaint::email
 
@@ -454,17 +452,17 @@ CGI::Application::Plugin::RateLimit
 
 CGI::Application::Plugin::Authentication::Driver::CDBI
 
-CGI::Application::Plugin::Phonebook
+CGI::Application::Plugin::Phrasebook
 
-CGI::Application::Plugin::Automode
+CGI::Application::Plugin::AutoRunmode
 
-CGI::Application::Plugin::Template
+CGI::Application::Plugin::TemplateRunner
 
 CGI::NoPoison
 
 CGI::FCKeditor
 
-CGI::Application::NewsIface
+CGI::Application::NetNewsIface
 
 CGI::Untaint::ipaddress
 
@@ -528,7 +526,7 @@ CGI::Application::Plugin::DebugMessage
 
 CGI::Application::Plugin::Apache
 
-CGI::Application::Plugin::ConfigSimple
+CGI::Application::Plugin::Config::Simple
 
 CGI::Application::Plugin::ViewCode
 
@@ -550,7 +548,7 @@ CGI::Dispatcher::Simple
 
 CGI::Screen
 
-CGI::SSI::Parser
+CGI::SSI_Parser
 
 CGI::Persistent
 

@@ -1,6 +1,6 @@
 Revision history for Perl extension Bundle::CGI::All.
 
-0.02  Sun Jul  8 13:12:33 2007
+0.03  Sun Jul  8 13:12:33 2007
 	- original version; created by h2xs 1.23 with options
 		-AXcfn Bundle::CGI::All
         - removed:
@@ -13,4 +13,6 @@ Revision history for Perl extension Bundle::CGI::All.
                   CGI::AppBuilder::Message
                   CGI::AppBuilder::Table
                   CGI::Uploader
+        - removed CGI::AppToolkit
+        - fixed typos
                   
